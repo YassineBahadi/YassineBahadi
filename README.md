@@ -208,9 +208,9 @@ Co-running the official game development club at ENSET — workshops, jams, and 
 |:---:|:---|:---:|
 | 🥇 **1er du Maroc** | BTS Développement Full Stack — National Ranking | `2024` |
 | 🎓 **ENSET Mohammedia** | Admitted to GLSID — Top Engineering School | `2024` |
-| 🔐 **Fortinet FCF** | Certified in Cybersecurity Fundamentals | `2024` |
-| 🎮 **Vice Treasurer** | N7GameDev — Official Game Dev Club @ ENSET | `2024` |
-| 🏗️ **Professional Intern** | Nichan Labs — Mobile & Backend Engineering | `2024` |
+| 🔐 **Fortinet FCF** | Certified in Cybersecurity Fundamentals | `2026` |
+| 🎮 **Vice Treasurer** | N7GameDev — Official Game Dev Club @ ENSET | `2026` |
+| 🏗️ **Professional Intern** | Nichan Labs — Mobile & Backend Engineering | `2025` |
 
 </div>
 
