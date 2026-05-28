@@ -215,7 +215,13 @@ Co-running the official game development club at ENSET — workshops, jams, and 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yassinebahadi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+![National Champion](https://img.shields.io/badge/🥇_National_Champion-BTS_Full_Stack_2024-00f5ff?style=for-the-badge&labelColor=0d1117)
+![ENSET GLSID](https://img.shields.io/badge/🎓_ENSET_Mohammedia-GLSID_2024→2027-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Fortinet FCF](https://img.shields.io/badge/🔐_Fortinet_FCF-Certified_2026-ee3124?style=for-the-badge&labelColor=0d1117&logo=fortinet&logoColor=white)
+![N7GameDev](https://img.shields.io/badge/🎮_N7GameDev-Vice_Treasurer_2026-ff6b9d?style=for-the-badge&labelColor=0d1117)
+![Nichan Labs](https://img.shields.io/badge/🏗️_Nichan_Labs-Mobile_%26_Backend_2025-6DB33F?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
