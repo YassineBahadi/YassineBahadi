@@ -1,274 +1,266 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yassine%20Bahadi&fontSize=60&fontColor=00f5ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20%F0%9F%8F%86%201er%20du%20Maroc&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0c29,50:302b63,75:1a1a2e,100:000000&height=280&section=header&text=YASSINE%20BAHADI&fontSize=70&fontColor=00f5ff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20%F0%9F%8F%86%201er%20du%20Maroc%20%E2%80%A2%20Ethical%20Hacker&descAlignY=62&descSize=19&descColor=a78bfa&animation=twinkling" width="100%"/>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=700&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=root%40yassine%3A~%24+whoami;%3E+Software+Engineer+%E2%80%A2+GLSID+%40+ENSET;%3E+Building+secure%2C+scalable+systems;%3E+Currently%3A+hunting+for+a+2026+internship" alt="Terminal typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&height=55&lines=Full+Stack+Engineer+%F0%9F%9A%80;Angular+%2B+Spring+Boot+Architect;Cybersecurity+Enthusiast+%F0%9F%94%90;ENSET+Mohammedia+%7C+GLSID+2024%E2%80%932027;Building+Things+That+Matter+%E2%9C%A8" alt="Typing animation" />
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00f5ff?style=for-the-badge&logoColor=black&labelColor=0d1117)](https://yassinebahadi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/yassinebahadi)
+[![Email](https://img.shields.io/badge/◈_EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yassinebahadi04@gmail.com)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/YassineBahadi)
+
+<img src="https://komarev.com/ghpvc/?username=yassinebahadi&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/YassineBahadi?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39d353?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-00f5ff?style=for-the-badge&logoColor=black)](https://yassinebahadi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassinebahadi)
-[![Gmail](https://img.shields.io/badge/◈_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinebahadi04@gmail.com)
-[![GitHub](https://img.shields.io/badge/◈_GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassineBahadi)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yassinebahadi&label=PROFILE+VIEWS&color=00f5ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/YassineBahadi?label=FOLLOWERS&style=flat-square&color=a78bfa)
-[![Fortinet FCF](https://img.shields.io/badge/Fortinet_FCF-Certified-ee3124?style=flat-square&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-
-</div>
-
 ---
 
-## `> whoami`
+<div align="center">
 
-```typescript
-const yassine: Engineer = {
-  name:       "Yassine Bahadi",
-  location:   "Morocco 🇲🇦 · Casablanca",
-  education:  {
-    now:      "ENSET Mohammedia — GLSID (2024 → 2027)",
-    trophy:   "🥇 Ranked #1 in Morocco — BTS Full Stack 2024",
-    bac:      "Sciences Physiques — Très Bien ✨",
-  },
-  role:       "Vice Treasurer & Game Developer @ N7GameDev 🎮",
-  experience: [
-    "Nichan Labs · Mobile Developer (MEDLINK Healthcare App)",
-    "Nichan Labs · Backend Engineering Intern",
-  ],
-  stack:      ["Angular", "Spring Boot", "TypeScript", "Java"],
-  exploring:  ["Cybersecurity 🔐", "Data Science 📊", "Game Dev 🕹️"],
-  seeking:    "Software Engineering Internship · Summer 2026",
-  mantra:     "Build fast. Break things. Secure everything.",
-};
+### 🎯 `MISSION_BRIEFING.exe`
+
+</div>
+
+```yaml
+identity:
+  name: Yassine Bahadi
+  location: Casablanca, Morocco 🇲🇦
+  title: Final-Year Software Engineering Student (Bac+5)
+
+education:
+  program: GLSID — Génie Logiciel et Systèmes Distribués
+  school: ENSET Mohammedia
+  timeline: 2024 → 2027
+  distinction: 🥇 Ranked #1 nationally — BTS Full Stack 2024
+
+certifications:
+  - Cisco Certified Ethical Hacker (CEH)
+  - Fortinet FCF — Cybersecurity Fundamentals
+
+core_stack:
+  frontend: [Angular, TypeScript, React, Next.js, Flutter]
+  backend:  [Spring Boot, Java, Node.js, Laravel, Python]
+  data:     [PostgreSQL, MySQL, MongoDB]
+  devops:   [Docker, Git, Linux, CI/CD]
+
+frontier_interests:
+  - Microservices Architecture 🧩
+  - AI / LLM-powered Systems 🤖
+  - DevOps Automation ⚙️
+  - Offensive & Defensive Security 🔐
+
+currently_seeking: "Software Engineering Internship — 2026 (PFE)"
+mantra: "Build fast. Secure everything. Ship what matters."
 ```
 
 ---
 
-## `> ls ./skills`
-
 <div align="center">
 
-### ⚡ Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🔧 Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Data & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🧬 `SYSTEM_ARCHITECTURE`
 
 </div>
 
----
-
-## `> cat ./projects`
-
-<div align="center">
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🏥 MEDLINK
-> *Healthcare meets mobile-first design*
+**⚡ Frontend Layer**
 
-A cross-platform healthcare application connecting patients and doctors with real-time features and secure medical record management.
-
-**Stack:** `Flutter` `Spring Boot` `PostgreSQL`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-00f5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/YassineBahadi)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ BEM ENERGY
-> *Smart energy — monitored & managed*
-
-Full-featured energy consumption management system with analytics dashboards and real-time monitoring for enterprise clients.
-
-**Stack:** `Laravel` `MySQL` `Chart.js`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-00f5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/YassineBahadi)
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/><br>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### ✅ Todo Task Manager
-> *Productivity, engineered*
+**🔧 Backend Layer**
 
-Full-stack task management platform with Swagger API documentation, JWT authentication, and a clean Angular UI.
-
-**Stack:** `Angular` `Spring Boot` `Swagger`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-00f5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/YassineBahadi)
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🧠 WellMind
-> *Mental wellness, intelligently designed*
+**🗄️ Data & Infra**
 
-Mental health companion app powered by AI conversation and mood analytics, built with a rich JavaFX desktop experience.
-
-**Stack:** `Java` `JavaFX` `AI APIs`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-00f5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/YassineBahadi)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Portfolio v2
-> *The terminal-inspired developer portfolio*
-
-An interactive portfolio disguised as a terminal. Commands, easter eggs, and live GitHub integration — a recruiter's playground.
-
-**Stack:** `Next.js` `Tailwind` `Framer Motion`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-a78bfa?style=flat-square&logo=vercel&logoColor=white)](https://yassinebahadi.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 N7GameDev Club
-> *Building the future of game dev in Morocco*
-
-Co-running the official game development club at ENSET — workshops, jams, and shipping indie titles. Vice Treasurer & lead dev.
-
-**Stack:** `Unity` `Java` `Community Building`
-
-[![Club Page](https://img.shields.io/badge/Club_Page-00f5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/YassineBahadi)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-## `> cat ./github_stats`
+<div align="center">
+
+### 🗂️ `FEATURED_BUILDS`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 MEDLINK
+*Healthcare meets mobile-first design*
+
+Cross-platform app connecting patients & doctors — real-time features, secure medical records.
+
+`Flutter` `Spring Boot` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ BEM Energy
+*Smart energy — monitored & managed*
+
+Enterprise energy management system with live analytics dashboards.
+
+`Laravel` `MySQL` `Chart.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ✅ Todo Task Manager
+*Productivity, engineered*
+
+Full-stack task platform — JWT auth, Swagger docs, clean Angular UI.
+
+`Angular` `Spring Boot` `Swagger`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 WellMind
+*Mental wellness, intelligently designed*
+
+AI-powered mental health companion with mood analytics & JavaFX desktop UI.
+
+`Java` `JavaFX` `AI APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 Portfolio v2
+*The terminal-inspired developer portfolio*
+
+Interactive terminal-style portfolio with commands, easter eggs, live GitHub data.
+
+`Next.js` `Tailwind` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎮 N7GameDev Club
+*Building the future of game dev in Morocco*
+
+Co-running ENSET's official game dev club — workshops, jams, shipped titles.
+
+`Unity` `Java` `Community`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
+
+### 📡 `LIVE_TELEMETRY`
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yassinebahadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00f5ff&icon_color=a78bfa&text_color=cdd6f4&bg_color=0d1117" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebahadi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=a78bfa&fire=ff6b9d&currStreakLabel=00f5ff" />
 
-</div>
-
-<div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebahadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00f5ff&text_color=cdd6f4&bg_color=0d1117" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yassinebahadi&theme=tokyonight&utcOffset=1" />
-</div>
 
-<br>
+<br><br>
 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinebahadi&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ff6b9d&area=true&hide_border=true&area_color=00f5ff" width="95%" />
-</div>
-
----
-
-## `> cat ./achievements`
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details | 📅 Year |
-|:---:|:---|:---:|
-| 🥇 **1er du Maroc** | BTS Développement Full Stack — National Ranking | `2024` |
-| 🎓 **ENSET Mohammedia** | Admitted to GLSID — Top Engineering School | `2024` |
-| 🔐 **Fortinet FCF** | Certified in Cybersecurity Fundamentals | `2026` |
-| 🎮 **Vice Treasurer** | N7GameDev — Official Game Dev Club @ ENSET | `2026` |
-| 🏗️ **Professional Intern** | Nichan Labs — Mobile & Backend Engineering | `2025` |
-
-</div>
-
-<div align="center">
-
-![National Champion](https://img.shields.io/badge/🥇_National_Champion-BTS_Full_Stack_2024-00f5ff?style=for-the-badge&labelColor=0d1117)
-![ENSET GLSID](https://img.shields.io/badge/🎓_ENSET_Mohammedia-GLSID_2024→2027-a78bfa?style=for-the-badge&labelColor=0d1117)
-![Fortinet FCF](https://img.shields.io/badge/🔐_Fortinet_FCF-Certified_2026-ee3124?style=for-the-badge&labelColor=0d1117&logo=fortinet&logoColor=white)
-![N7GameDev](https://img.shields.io/badge/🎮_N7GameDev-Vice_Treasurer_2026-ff6b9d?style=for-the-badge&labelColor=0d1117)
-![Nichan Labs](https://img.shields.io/badge/🏗️_Nichan_Labs-Mobile_%26_Backend_2025-6DB33F?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-## `> cat ./contact_me`
+<div align="center">
+
+### 🏆 `ACHIEVEMENT_LOG`
+
+<img src="https://img.shields.io/badge/🥇_National_Champion-BTS_Full_Stack_2024-00f5ff?style=for-the-badge&labelColor=0d1117" /><br>
+<img src="https://img.shields.io/badge/🎓_ENSET_Mohammedia-GLSID_2024→2027-a78bfa?style=for-the-badge&labelColor=0d1117" /><br>
+<img src="https://img.shields.io/badge/🔐_Cisco-Certified_Ethical_Hacker-1BA0D7?style=for-the-badge&labelColor=0d1117&logo=cisco&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/🔐_Fortinet_FCF-Certified-ee3124?style=for-the-badge&labelColor=0d1117&logo=fortinet&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/🎮_N7GameDev-Vice_Treasurer-ff6b9d?style=for-the-badge&labelColor=0d1117" /><br>
+<img src="https://img.shields.io/badge/🏗️_Nichan_Labs-Mobile_%26_Backend_Engineer-6DB33F?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+---
 
 <div align="center">
 
+### 📬 `ESTABLISH_CONNECTION`
+
+```bash
+$ curl -X POST https://yassinebahadi.dev/contact \
+  --data '{"subject": "Let'\''s build something legendary"}'
+
+> 200 OK — Response time: usually < 24h
 ```
-I'm actively looking for a Software Engineering internship in 2026.
-If you're building something great — let's talk.
-```
+
+[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassinebahadi)
+[![Visit Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://yassinebahadi.vercel.app)
+[![Send Email](https://img.shields.io/badge/SEND_EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinebahadi04@gmail.com)
+
+</div>
 
 <br>
 
-[![Let's Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassinebahadi)
-[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://yassinebahadi.vercel.app)
-[![Send Me an Email](https://img.shields.io/badge/Send_Me_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinebahadi04@gmail.com)
-
-</div>
-
----
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:302b63,100:000000&height=140&section=footer&animation=twinkling" width="100%"/>
 
 *"From the child who searched until he found — to the engineer who builds what the world needs."*
 
-**⭐ If my work inspires you, a star goes a long way. ⭐**
+**⭐ If this profile inspired you, a star on my repos goes a long way. ⭐**
 
 </div>
 
-<!-- 
-  ██████╗ ███████╗ ██████╗██████╗ ██╗   ██╗██╗████████╗███████╗██████╗ 
-  ██╔══██╗██╔════╝██╔════╝██╔══██╗██║   ██║██║╚══██╔══╝██╔════╝██╔══██╗
-  ██████╔╝█████╗  ██║     ██████╔╝██║   ██║██║   ██║   █████╗  ██║  ██║
-  ██╔══██╗██╔══╝  ██║     ██╔══██╗██║   ██║██║   ██║   ██╔══╝  ██║  ██║
-  ██║  ██║███████╗╚██████╗██║  ██║╚██████╔╝██║   ██║   ███████╗██████╔╝
-  ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚══════╝╚═════╝ 
-  
-  🏆 Ranked #1 in Morocco — BTS Full Stack 2024
-  ❤️  Angular + Spring Boot is my happy place
-  🔐 Fortinet FCF Certified — Cybersecurity is next
+<!--
+  ██╗   ██╗ █████╗ ███████╗███████╗██╗███╗   ██╗███████╗
+  ╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝
+   ╚████╔╝ ███████║███████╗███████╗██║██╔██╗ ██║█████╗
+    ╚██╔╝  ██╔══██║╚════██║╚════██║██║██║╚██╗██║██╔══╝
+     ██║   ██║  ██║███████║███████║██║██║ ╚████║███████╗
+     ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+
+  🏆 #1 in Morocco — BTS Full Stack 2024
+  🔐 Cisco CEH + Fortinet FCF Certified
   🎮 Vice Treasurer @ N7GameDev
   📧 yassinebahadi04@gmail.com
-  🚀 Seeking 2026 Internship — Let's build something legendary.
-  
-  You found the easter egg. Drop me a message 😄
+  🚀 Open to Software Engineering Internships — 2026
+
+  You found the easter egg. Send me a message 😄
 -->
