@@ -199,7 +199,7 @@ Co-running ENSET's official game dev club — workshops, jams, shipped titles.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinebahadi&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ff6b9d&area=true&hide_border=true&area_color=00f5ff" width="95%" />
+<img src="https://activity-graph-yassine.vercel.app/graph?username=yassinebahadi&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ff6b9d&area=true&hide_border=true&area_color=00f5ff" width="95%" />
 
 </div>
 
